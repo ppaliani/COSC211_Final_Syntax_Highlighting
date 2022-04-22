@@ -1,0 +1,26 @@
+COSC 211 Final
+Converting java code to html code
+
+Steps to run program:
+
+Start by opening command prompt as administrator.
+
+Open the html file on a webpage.
+
+Open the html source code in a text editor.
+
+Using the cd command, navigate to files folder.
+
+Type the command "javac Exercise_21_5.java".
+
+Type the command "javac javaInput.java".
+
+Type the command "java Exercise_21_5.java javaInput.java htmlOutput.html".
+
+View the html in the text editor and save the file.
+
+View the webpage and refresh the page.
+
+The webpage should display the java code from the java input file.
+
+Made by Paul, Ashton, and Dongyoung
